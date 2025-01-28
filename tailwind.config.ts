@@ -13,20 +13,20 @@ const config: Config = {
 		},
 		extend: {
 			colors: {
-				"hackrpi-primary-blue": "#74b7ef",
-				"hackrpi-primary-dark-green": "#264e33",
-				"hackrpi-primary-light-green": "#88b63a",
-				"hackrpi-secondary-grey": "#efefef",
-				"hackrpi-secondary-light-blue": "#4a6277",
-				"hackrpi-secondary-dark-blue": "#27303b",
-				"hackrpi-secondary-dark-green": "#27303b",
-				"hackrpi-secondary-light-green": "#6d8740",
-				"hackrpi-secondary-yellow": "#edd559",
-				"subway-red": "#ef3a42",
-				"subway-blue": "#0058a9",
-				"subway-green": "#00a65c",
-				"subway-yellow": "#f8a13a",
-				"subway-purple": "#b43c96",
+				"hackrpi-primary-blue": " #74b7ef",
+				"hackrpi-primary-dark-green": " #264e33",
+				"hackrpi-primary-light-green": " #88b63a",
+				"hackrpi-secondary-grey": " #efefef",
+				"hackrpi-secondary-light-blue": " #4a6277",
+				"hackrpi-secondary-dark-blue": " #27303b",
+				"hackrpi-secondary-dark-green": " #27303b",
+				"hackrpi-secondary-light-green": " #6d8740",
+				"hackrpi-secondary-yellow": " #edd559",
+				"subway-red": " #9e40ee", //Changed to light purple
+				"subway-blue": " #733dbe", //Changed to dark purple
+				"subway-green": " #e39036", //Changed to orange
+				"subway-yellow": " #e9bc59", //Changed to yellow
+				"subway-purple": " #d5345d", //Changed to pink
 				gold: "#ffd700",
 				silver: "#C0C0C0",
 				bronze: "#cd7f32",
