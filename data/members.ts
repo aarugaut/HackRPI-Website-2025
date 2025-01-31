@@ -12,7 +12,7 @@ import lefteri from "../public/team/photos/Lefteri_Kapnisakis.jpg";
 import shankar from "../public/team/photos/Shankar_Palanickal.jpg";
 import suyash from "../public/team/photos/Suyash_Amatya.jpg";
 import william from "../public/team/photos/William_Wu.jpg";
-
+ 
 export const executive = {
 	"Xenia Khusid": xenia,
 	"Adwait Naware": adwait,
